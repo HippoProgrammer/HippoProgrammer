@@ -1,5 +1,6 @@
 ## Hello, I'm HippoProgrammer
 I'm a CS student who codes far too many stupid things.
+I enjoy building computers, and currently have an AMD Ryzen 5 8600G, ASUS Prime B650M-R,  Radeon 760M iGPU, Corsair Vengeance RGB DDR5-6000 CL30 2x16GB, and 1TB of assorted SSDs.
 
 ### My current projects
 * Submitting pull requests to @SuitablyMysterious 's repos whether they like it or not (HippoProgrammer/gameJam-trappedOnThMoon)
