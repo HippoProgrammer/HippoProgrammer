@@ -6,7 +6,7 @@ I enjoy building computers, and currently have an AMD Ryzen 5 8600G, ASUS Prime 
 * TV aerial revisited - Pi 4 with a TV hat running a Jellyfin server, with TVHeadend .m3u tuner integration, linked to a Fire TV
 * PiHole revisited - Pi Zero 2 W with an Adafruit OLED display for stats
 * Home Assistant - Pi 5 running a local Home Assistant instance - possibility of using a mic kit to link this with Assist?
-* Building a library system (in collaboration with @SuitablyMysterious https://github.com/The-CS-Nerds/Library-System)
+* Building a library system (in collaboration with @SuitablyMysterious - The-CS-Nerds/Library-System)
 
 ### My past projects
 * Python app that interfaces with the TFL API to fetch a station list and generate the shortest journey on all Underground lines (written in collaboration with ChatGPT)
