@@ -15,7 +15,7 @@ Formatted as: \[name (optional)\] - \[description\] - \[comment\]
 * TV aerial revisited - Pi 4 with a TV hat running a Jellyfin server, with TVHeadend .m3u tuner integration, linked to a Fire TV - _fun, but a pain_
 * PiHole revisited - Pi Zero 2 W with an Adafruit OLED display for stats - _easier than I anticipated with the new PiHole v6 API_
 * Home Assistant - Pi 5 running a local Home Assistant instance - possibility of using a mic kit to link this with Assist? - _again, easier than I anticipated, with very good functionality. bit hacky sometimes though_
-* Python School Tools - Quick and dirty Python script that takes user-provided timetable data and exports it in a specific .csv file format based on number of weeks of school, for easy timetable printing for planners etc. - _quite interesting, if a bit janky in places_
+* Python School Tools (1) - Quick and dirty Python script that takes user-provided timetable data and exports it in a specific .csv file format based on number of weeks of school, for easy timetable printing for planners etc. - _quite interesting, if a bit janky in places_
 
 ### Development has concluded
 * Python app that interfaces with the TFL API to fetch a station list and generate the shortest journey on all Underground lines (written in collaboration with ChatGPT) - _it broke, and would have been very difficult to make work with just the TfL API, as I was trying _
