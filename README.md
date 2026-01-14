@@ -8,20 +8,22 @@ I'm a CS student who:
 ## My projects (_some of which are on GitHub_)
 Formatted as: \[name (optional)\] - \[description\] - \[comment\]
 ### Currently in active development
-* Building a timetable generation program (in collaboration with @SuitablyMysterious and @goldenfootieSchool)
+
 
 ### Currently in inactive development
-* Building a library system (in collaboration with @SuitablyMysterious - The-CS-Nerds/Library-System)
-* Re-building the aforementioned library system (The-CS-Nerds/Library-System-v2)
 * Home Assistant - Pi 5 running a local Home Assistant instance - possibility of using a mic kit to link this with Assist? - _again, easier than I anticipated, with very good functionality. bit hacky sometimes though_
-* Python School Tools (1) - Quick and dirty Python script that takes user-provided timetable data and exports it in a specific .csv file format based on number of weeks of school, for easy timetable printing for planners etc. - _quite interesting, if a bit janky in places_
-* PiHole revisited (v3) - Trying to diagnose why the internet keeps dropping while PiHole is managing the DHCP / DNS servers
-* TV aerial revisited (v3) - Trying to stop the 3D printed case of the Pi 4 from melting
+* TV aerial revisited (v3) - ~~Trying to stop the 3D printed case of the Pi 4 from melting~~ - fixed with a new PETG case, but trying to make TVHeadend actually stay up is more difficult than anticipated
 
 ### Development has concluded
+* Python School Tools (1) - Quick and dirty Python script that takes user-provided timetable data and exports it in a specific .csv file format based on number of weeks of school, for easy timetable printing for planners etc. - _quite interesting, if a bit janky in places_
+* PiHole revisited (v3) - Trying to diagnose why the internet keeps dropping while PiHole is managing the DHCP / DNS servers
+* Building a library system (in collaboration with @SuitablyMysterious - The-CS-Nerds/Library-System) - _our entire backend and frontend didn't play nice_
+* Re-building the aforementioned library system (The-CS-Nerds/Library-System-v2) - _the rewrite effort failed_
+* Re-re-building said library system (The-CS-Nerds/Library-System-v3) - _better plan, worse execution_
+* Building a timetable generation program (in collaboration with @SuitablyMysterious and @goldenfootieSchool) - _never got anywhere_
 * TV aerial revisited - Pi 4 with a TV hat running a Jellyfin server, with TVHeadend .m3u tuner integration, linked to a Fire TV - _fun, but a pain_
 * PiHole revisited - Pi Zero 2 W with an Adafruit OLED display for stats - _easier than I anticipated with the new PiHole v6 API_
-* Python app that interfaces with the TFL API to fetch a station list and generate the shortest journey on all Underground lines (written in collaboration with ChatGPT) - _it broke, and would have been very difficult to make work with just the TfL API, as I was trying _
+* Python app that interfaces with the TFL API to fetch a station list and generate the shortest journey on all Underground lines (written in collaboration with ChatGPT) - _it broke, and would have been very difficult to make work with just the TfL API, as I was trying_
 * Submitting pull requests to @SuitablyMysterious 's repos whether they like it or not (HippoProgrammer/gameJam-trappedOnThMoon) - _very tedious and annoying for me, but worth it in the end_
 * Flask web app that interfaces with the Discord API to provide OAuth2 signin to my Discord server (~~HippoProgrammer3/testing-flask~~ repo deleted) - _again, quite fun, but Discord dev docs are awful_
 * 3D version of my Godot game, Super Forklift (https://itch.io/hippogamebuilder) - _the assets (from @DrygiththeGM) were fun to voxelize, especially the top and the bottom, and look quite cool, but Godot 3D is not very easy_
