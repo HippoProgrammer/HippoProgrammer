@@ -1,8 +1,8 @@
 # Hello, I'm HippoProgrammer
-I'm a CS student who:
+I am a person who:
 * codes far too many stupid things
-* enjoys building computers, and currently has an AMD Ryzen 5 8600G-based system
-* breaks far too many Raspberry Pi operating systems
+* enjoys building computers
+* breaks far too many Linux-based operating systems
 * almost always does the harder and more time-consuming programming route instead of the easier but more tedious manual work route
 
 ## My projects (_some of which are on GitHub_)
